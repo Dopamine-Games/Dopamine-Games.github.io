@@ -10,6 +10,7 @@ google.com, pub-2623377448396533, DIRECT, f08c47fec0942fa0
 #Replace the Business_ID below with your Meta Business ID
 facebook.com, 1004032824419595, RESELLER, c3e20eee3f780d68
 facebook.com, 1631094447726702, RESELLER, c3e20eee3f780d68
+facebook.com, 1202219421610747, RESELLER, c3e20eee3f780d68
 
 #Resellers
 152media.info,152M10,RESELLER
